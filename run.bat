@@ -1,0 +1,1 @@
+powershell -executionPolicy ByPass -File  main.ps1
